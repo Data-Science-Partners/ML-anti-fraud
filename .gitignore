@@ -132,7 +132,18 @@ venv.bak/
 .dmypy.json
 dmypy.json
 
+## log catboost
+*.json
+*.tsv
+*.tfevents
+tmp
+
+
 # Pyre type checker
 .pyre/
+
+
+# PowerBi
+*.pbix
 
 !dados.csv
